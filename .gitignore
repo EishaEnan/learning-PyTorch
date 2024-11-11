@@ -1,0 +1,5 @@
+# Ignore the virtual environment folder
+pytorchenv/
+
+# Ignore all Jupyter Notebook checkpoints
+.ipynb_checkpoints
